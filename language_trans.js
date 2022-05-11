@@ -16,7 +16,7 @@ var langJSON = {
     farms: "Farms",
     whatInsureCOw: "What is InsureCow ?",
     insureCow:
-      "InsureCow is a cattle wellbeing monitoring and insurance platform that is playing a significant role in protecting and ensuring the asset value of large cattle for livestock farmers. By providing extremely useful messages like early warnings of illness on one hand and financial compensation by means of payouts to insurance claims through its insurance partners in times of cattle death or theft, on the other hand, InsureCow is poised to become a game-changer in ensuring financial access for the livestock sector of the country. It also comes with a mobile app that allows farmers to maintain a vaccination calendar, record artificial insemination information, log income-expense of the farm through a built-in mini ERP. We have employed cutting-edge yet affordable technologies like the Internet of Things (IoT), Data Science, Machine Learning, and Artificial Intelligence to build the InsureCow platform.",
+      "InsureCow has been created as an innovative piece of technology that solves major challenges for Bangladeshi livestock farmers. It is designed to protect the assets of common farmers and secure the security of their investments. Currently, the InsureCow platform may be divided into two primary areas. The first portion focuses on protecting farmers' assets through risk management strategies such as insurance. Animal biometrics are used to register the livestock on the platform. The data collected from the cattle are then used to determine premiums and to establish a credit rating for each farm to facilitate future investment. The dataset will be utilized to develop the very first index-based credit system for Bangladeshi livestock. The second portion consists of innovative monitoring collars that provide the most effective solution at the lowest cost. It is well established that the sector is facing slowdown due to improper cattle herding techniques. These monitoring collars help farmers in numerous ways in keeping track of their herds. Such as temperature monitoring, milk yield production, weight gain, and location tracking. It can also predict a cow's heat cycle and detect if the animal is ill. Our platform allows herders to manage immunizations. Consequently, developing a comprehensive framework to provide livestock farmers with a safety net and the opportunity for future development in order to expand their farms with cognitive benchmarks while assuring sustainable expansion in a climate-changing environment.",
 
     features: "We Provide Many Features You Can Use",
     featuresInfo:
@@ -94,7 +94,7 @@ var langJSON = {
     farms: "ফার্ম",
     whatInsureCOw: "ইনশিওর কাউ কি ?",
     insureCow:
-      "InsureCow একটি গরুর সুস্থতা পর্যবেক্ষণ এবং বীমা প্ল্যাটফর্ম যা পশুপালকদের জন্য বড় গবাদি পশুর সম্পদ মূল্য রক্ষা এবং নিশ্চিত করতে গুরুত্বপূর্ণ ভূমিকা পালন করছে। গবাদি পশুর মৃত্যু বা চুরির সময় বীমা অংশীদারদের মাধ্যমে বীমা দাবি করে, অন্যদিকে, দেশের পশুসম্পদ খাতের জন্য আর্থিক অ্যাক্সেস নিশ্চিত করতে ইনস্যুরকা একটি গেম-চেঞ্জার হয়ে উঠতে প্রস্তুত। একটি ভ্যাকসিনেশন ক্যালেন্ডার বজায় রাখতে, কৃত্রিম গর্ভধারণের তথ্য রেকর্ড করতে, একটি অন্তর্নির্মিত মিনি ইআরপির মাধ্যমে খামারের আয়-ব্যয়ের লগ ইন করুন। এবং InsureCow প্ল্যাটফর্ম তৈরির জন্য কৃত্রিম বুদ্ধিমত্তা।",
+      "InsureCow প্রযুক্তির একটি উদ্ভাবনী অংশ হিসাবে তৈরি করা হয়েছে যা বাংলাদেশী প্রাণিসম্পদ খামারিদের জন্য প্রধান চ্যালেঞ্জগুলি সমাধান করে। এটি সাধারণ কৃষকদের সম্পদ রক্ষা এবং তাদের বিনিয়োগের নিরাপত্তা নিশ্চিত করার জন্য ডিজাইন করা হয়েছে। বর্তমানে, InsureCow প্ল্যাটফর্ম দুটি প্রাথমিক এলাকায় বিভক্ত হতে পারে। প্রথম অংশটি বীমার মতো ঝুঁকি ব্যবস্থাপনার কৌশলগুলির মাধ্যমে কৃষকদের সম্পদ রক্ষার উপর দৃষ্টি নিবদ্ধ করে। প্ল্যাটফর্মে পশুদের নিবন্ধন করতে পশুর বায়োমেট্রিক্স ব্যবহার করা হয়। গবাদি পশু থেকে সংগৃহীত ডেটা প্রিমিয়াম নির্ধারণ করতে এবং ভবিষ্যতে বিনিয়োগের সুবিধার্থে প্রতিটি খামারের জন্য একটি ক্রেডিট রেটিং স্থাপন করতে ব্যবহৃত হয়। ডেটাসেটটি বাংলাদেশী গবাদি পশুর জন্য প্রথম সূচক-ভিত্তিক ক্রেডিট সিস্টেম তৈরি করতে ব্যবহার করা হবে। দ্বিতীয় অংশে রয়েছে উদ্ভাবনী পর্যবেক্ষণ কলার যা সর্বনিম্ন খরচে সবচেয়ে কার্যকর সমাধান প্রদান করে। এটি সুপ্রতিষ্ঠিত যে অনুপযুক্ত গবাদি পশু পালন কৌশলের কারণে খাতটি মন্থরতার সম্মুখীন হচ্ছে। এই মনিটরিং কলার কৃষকদের তাদের পশুপালের ট্র্যাক রাখার জন্য অনেক উপায়ে সাহায্য করে। যেমন তাপমাত্রা পর্যবেক্ষণ, দুধের ফলন উৎপাদন, ওজন বৃদ্ধি এবং অবস্থান ট্র্যাকিং। এটি একটি গরুর তাপ চক্রের পূর্বাভাস দিতে পারে এবং প্রাণীটি অসুস্থ কিনা তা সনাক্ত করতে পারে। আমাদের প্ল্যাটফর্ম পশুপালকদের ইমিউনাইজেশন পরিচালনা করার অনুমতি দেয়। ফলস্বরূপ, জলবায়ু-পরিবর্তন পরিবেশে টেকসই সম্প্রসারণের আশ্বাস দিয়ে জ্ঞানীয় মানদণ্ডের সাথে তাদের খামারগুলিকে প্রসারিত করার জন্য একটি সুরক্ষা জাল এবং ভবিষ্যতের উন্নয়নের সুযোগ প্রদানের জন্য একটি বিস্তৃত কাঠামো তৈরি করা।",
 
     features: "আমরা অনেক ধরনের ফিচার প্রদান করে থাকি :",
     featuresInfo:
@@ -142,7 +142,7 @@ var langJSON = {
     teamMember: "আমাদের টিম মেম্বার",
 
     insureCow2:
-      "এমন একটি পণ্য যার অনেক মৌলিক  বৈশিষ্ট্য রয়েছে এবং এটি নিরাপত্তা প্রদান করে।",
+      "হল একটি গবাদি পশুর সুস্থতা পর্যবেক্ষণ এবং বীমা প্ল্যাটফর্ম যা পশুপালনকারীদের জন্য বৃহৎ গবাদি পশুর সম্পদের মূল্য রক্ষা এবং নিশ্চিত করতে গুরুত্বপূর্ণ ভূমিকা পালন করছে।",
     feature: "প্যাকেজ সমূহ",
     product: "আমাদের পণ্য",
     location: "লোকেশন",
